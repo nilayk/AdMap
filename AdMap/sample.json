@@ -1,0 +1,27 @@
+[
+  {
+    "city":"Delhi",
+    "latitude":28.6139,
+    "longitude":77.2089
+  },
+  {
+    "city":"New York",
+    "latitude":40.7528,
+    "longitude":-73.9725
+  },
+  {
+    "city":"Tokyo",
+    "latitude":35.6895,
+    "longitude":139.6917
+  },
+  {
+    "city":"London",
+    "latitude":51.5072,
+    "longitude":0.1275
+  },
+  {
+    "city":"Los Angeles",
+    "latitude":34.0396,
+    "longitude":-118.2661
+  }
+]
